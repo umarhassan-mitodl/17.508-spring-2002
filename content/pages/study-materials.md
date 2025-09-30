@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides study materials for the course, including timelines
   for Austria, Chile, and the Weimar Republic.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

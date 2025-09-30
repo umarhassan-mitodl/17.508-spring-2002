@@ -4,6 +4,8 @@ description: A list of potential topics for research papers.
 file: /courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/ea4865c15fd1fb918e0d4a835e2eb986_topics.pdf
 file_size: 77840
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
