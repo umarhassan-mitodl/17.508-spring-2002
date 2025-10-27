@@ -4,8 +4,6 @@ description: This syllabus section provides the complete course syllabus and inf
   on meeting times, why you should take the course, what the course is about, readings,
   workload, and grading.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
