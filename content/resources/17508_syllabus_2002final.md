@@ -6,8 +6,6 @@ description: This syllabus provides the complete course syllabus and information
 file: /courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/89f109243c5311b583fa8e7c18c117c7_17508_syllabus_2002final.pdf
 file_size: 236438
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
